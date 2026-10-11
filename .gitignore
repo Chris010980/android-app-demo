@@ -1,0 +1,18 @@
+# Android
+.gradle/
+build/
+.idea/
+local.properties
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Appium
+reports/
+screenshots/
+
+# OS
+Thumbs.db
+.DS_Store
